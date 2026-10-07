@@ -1,1 +1,2 @@
 Another day of practicing git and github
+This is another text on the second line of f1.txt
